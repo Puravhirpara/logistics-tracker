@@ -2,8 +2,6 @@
 
 A backend microservices-based system designed to manage delivery logistics, built using Java and Spring Boot. This project enables admins to create and assign delivery tasks, while agents can log in, view their tasks, and update delivery statuses in real time.
 
-> ✅ Perfect for showcasing backend engineering skills with microservices, role-based access, secure APIs, and service discovery.
-
 ---
 
 ## 🧩 Features
